@@ -1,7 +1,7 @@
 
 # 📋Note:
 	
-	Este es mi primer acercamiento con el frances por lo que inicialmente para familiarsarme con los sonidos y palabras he tomado un curso de linkedin Learning con frases basicas. Posteriormentes ire compartiendo mas recursos y el proceso de aprendizaje.
+	Este es mi primer acercamiento con el francés por lo que inicialmente para familiarsarme con los sonidos y palabras he tomado un curso de LinkedIn Learning con frases básicas. Posteriormente iré compartiendo más recursos y el proceso de aprendizaje.
 
 
 # 🔗Referencias:
@@ -9,6 +9,9 @@
 Este es el link al curso de linkedIn Learning.
 
 [French for Absolute Beginners](https://www.linkedin.com/learning/french-for-absolute-beginners/introduction)
+
+
+# Frases
 
 
 Monsieur. Bonjour Madame. 
