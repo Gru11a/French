@@ -6,8 +6,6 @@
 
 # 🔗Referencias:
 
-Este es el link al curso de linkedIn Learning.
-
 [French for Absolute Beginners](https://www.linkedin.com/learning/french-for-absolute-beginners/introduction)
 
 
