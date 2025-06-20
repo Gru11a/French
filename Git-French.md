@@ -95,6 +95,7 @@ C'est le musée Auguste Rodin.
 Le sculpteur. Et ça ? Qu'est-ce que c'est ? 
 	
 	El escultor. ¿Y esto? ¿Qué es esto?
+# 0:10 
 
 Une tour, euh, la... Tour Eiffel. Pfff, biensûr. Et les Champs-Elysées.
 	
