@@ -159,11 +159,13 @@ Bonjour, monsieur. Bonjour, mademoiselle.
 
 Henri, voici ma fille, Aurélie. 
 	
-	Henri, soy mi hija, Aurélie.
+	Henri, aquí está mi hija, Aurélie.
 
 Papa, qui est-ce ? C'est moncollègue.
 	
 	Papá, ¿quién habla? Soy mi colega.
+
+# 0:10 
 
 Qu'est-ce que c'est ? Euh... Écoute, c'est quoi ? 
 	
